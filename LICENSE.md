@@ -1,4 +1,4 @@
-# 
+# Novo SceneUnderstand pacote. Baixe e instale com pronto para integração e monitoramento em tempo real — rápido, seguro e fácil de usar.
 
 
 
